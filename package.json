@@ -1,0 +1,19 @@
+{
+  "name": "hexvorak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/orbweaver-/hexvorak.git"
+  },
+  "author": "Colton Clemmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orbweaver-/hexvorak/issues"
+  },
+  "homepage": "https://github.com/orbweaver-/hexvorak#readme"
+}
