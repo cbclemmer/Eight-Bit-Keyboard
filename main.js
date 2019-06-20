@@ -51,7 +51,7 @@ $(document).ready(() => {
             $('#output').text(output)
             return
         }
-        if (tmp < 33 || tmp > 126) return
+        if (tmp < 32 || tmp > 126) return
         output += c
         $('#last').text(c)
         $('#output').text(output)
